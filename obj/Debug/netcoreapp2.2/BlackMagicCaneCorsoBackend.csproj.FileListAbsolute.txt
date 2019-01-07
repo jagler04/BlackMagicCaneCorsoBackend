@@ -1,0 +1,14 @@
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.deps.json
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.runtimeconfig.json
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.runtimeconfig.dev.json
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.dll
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.pdb
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.csprojAssemblyReference.cache
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.csproj.CoreCompileInputs.cache
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.RazorAssemblyInfo.cache
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.RazorAssemblyInfo.cs
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.AssemblyInfoInputs.cache
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.AssemblyInfo.cs
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.RazorTargetAssemblyInfo.cache
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.dll
+C:\Users\jagler\Documents\GitHub\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Debug\netcoreapp2.2\BlackMagicCaneCorsoBackend.pdb
