@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BlackMagicCaneCorsoBackend.Business;
+using BlackMagicCaneCorsoBackend.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlackMagicCaneCorsoBackend.Controllers
@@ -16,9 +17,9 @@ namespace BlackMagicCaneCorsoBackend.Controllers
         }
         [Route("Request")]
         [HttpPost]
-        public IActionResult RequestAPuppy()
+        public IActionResult RequestAPuppy([FromBody] RegistrationForm frm)
         {
-            _puppies.Register();
+            _puppies.Register(frm);
             return Ok();
         }
     }
