@@ -20,12 +20,12 @@ namespace BlackMagicCaneCorsoBackend.Models
         public bool Pronunciation { get; set; }
         public bool CompanyHome { get; set; }
         public string PreferedGender { get; set; }
-        public int ShowCompetition { get; set; }
-        public int AgilityCompetition { get; set; }
-        public int TherapyDog { get; set; }
-        public int EmotionalSupport { get; set; }
-        public int Breeding { get; set; }
-        public int CouchBuddy { get; set; }
+        public string ShowCompetition { get; set; }
+        public string AgilityCompetition { get; set; }
+        public string TherapyDog { get; set; }
+        public string EmotionalSupport { get; set; }
+        public string Breeding { get; set; }
+        public string CouchBuddy { get; set; }
 
     }
 }

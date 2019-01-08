@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
+using NJsonSchema;
+using NSwag.AspNetCore;
 
 namespace BlackMagicCaneCorsoBackend
 {
@@ -35,6 +37,7 @@ namespace BlackMagicCaneCorsoBackend
             aiOptions.EnableAdaptiveSampling = false;
 
             services.AddSingleton<Puppies>();
+            services.AddSwaggerDocument();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +48,7 @@ namespace BlackMagicCaneCorsoBackend
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseSwaggerUi3();
             app.UseMvc();
         }
     }

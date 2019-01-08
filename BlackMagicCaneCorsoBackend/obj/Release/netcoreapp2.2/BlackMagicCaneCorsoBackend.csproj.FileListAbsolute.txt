@@ -1,0 +1,14 @@
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.deps.json
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.runtimeconfig.json
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.runtimeconfig.dev.json
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.dll
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\bin\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.pdb
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.csprojAssemblyReference.cache
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.csproj.CoreCompileInputs.cache
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.RazorAssemblyInfo.cache
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.RazorAssemblyInfo.cs
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.AssemblyInfoInputs.cache
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.AssemblyInfo.cs
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.RazorTargetAssemblyInfo.cache
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.dll
+C:\Projects\Mine\BlackMagicCaneCorsoBackend\BlackMagicCaneCorsoBackend\obj\Release\netcoreapp2.2\BlackMagicCaneCorsoBackend.pdb

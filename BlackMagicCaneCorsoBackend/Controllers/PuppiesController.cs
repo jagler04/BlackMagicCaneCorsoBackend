@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlackMagicCaneCorsoBackend.Controllers
 {
+    [Route("")]
     public class PuppiesController : Controller
     {
         private readonly Puppies _puppies;
@@ -15,6 +16,7 @@ namespace BlackMagicCaneCorsoBackend.Controllers
         {
             _puppies = puppies;
         }
+
         [Route("Request")]
         [HttpPost]
         public IActionResult RequestAPuppy([FromBody] RegistrationForm frm)
